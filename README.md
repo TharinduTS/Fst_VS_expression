@@ -17,8 +17,8 @@ for (current_pop in all_populations) {
   
   
   library(ggplot2)
-  plot_list<-list()
-  library(pracma)
+  #plot_list<-list()
+  #library(pracma)
   x<-0
   
   #remove scientific notation
